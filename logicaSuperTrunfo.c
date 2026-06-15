@@ -6,9 +6,14 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-    // Definição das variáveis para armazenar as propriedades das cidades
+    int n;
+    // Definição das variáveis para armazenar as propriedades das cidade
     // Você pode utilizar o código do primeiro desafio
+ 
 
+
+    printf("olá mundo, no codespasce!\n");
+    printf("Exemplo de edição de código!\n/");
     
     // Cadastro das Cartas:
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
